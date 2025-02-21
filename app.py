@@ -1,6 +1,7 @@
 import streamlit as st
 import mysql.connector
-import pandas as pd
+import pandas as pd 
+import requests
 st.title('📚BookScape Explorer')
 st.header('Clickhere')
 
